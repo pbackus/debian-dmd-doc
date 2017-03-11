@@ -1,0 +1,6 @@
+A simple Debian package that integrates DMD's documentation with debian's
+doc-base system for online documentation. It is intended to be installed
+alongside the official DMD .deb package available at dlang.org.
+
+Note that this package is UNNOFICIAL and NOT IN ANY WAY AFFILIATED WITH OR
+ENDORSED BY the Debian Project, dlang.org, or the D Language foundation.
