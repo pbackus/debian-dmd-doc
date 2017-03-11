@@ -1,0 +1,10 @@
+Package: dmd-doc
+Version: 2.072.0-0
+Priority: optional
+Section: doc
+Maintainer: Paul Backus <snarwin@gmail.com>
+Architecture: all
+Depends: dmd, doc-base
+Description: DMD/Phobos documentation (doc-base support)
+ This package provides a doc-base control file for the HTML documentation
+ included in the main dmd package.

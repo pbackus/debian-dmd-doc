@@ -1,0 +1,7 @@
+Document: dmd-doc
+Title: DMD/Phobos Documentation
+Section: Programming/D
+
+Format: HTML
+Index: /usr/share/doc/dmd/html/d/index.html
+Files: /usr/share/doc/dmd/html/d/*.html
